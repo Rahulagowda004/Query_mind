@@ -1,18 +1,12 @@
-It looks like the `README.md` file in your repository is currently empty. Here is a suggested README content for your project along with instructions on how to run the project:
-
----
-
 # Query_mind
 
 ## Description
-Query_mind is a project designed to [brief description of the project's purpose]. The main components are implemented in Jupyter Notebook and Python.
+Query_mind is a project designed to leverage the capabilities of Jupyter Notebook and Python for data analysis and querying tasks. The primary goal is to provide a robust framework for executing complex queries and data manipulations efficiently. This project includes various Jupyter Notebooks demonstrating different use cases and implementations in Python to help users understand and utilize the tool effectively.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+The tech stacks used in the Query_mind application are:
+
+Jupyter Notebook: For interactive data analysis and visualization.
+Python: For backend processing and execution of data queries
 
 ## Installation
 
