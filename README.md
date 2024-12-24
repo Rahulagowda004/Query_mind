@@ -31,7 +31,7 @@
 
 Make sure the following are installed:  
 
-- Python 3.8+ 🐍  
+- Python 3.11+ 🐍  
 - Streamlit  
 - LangChain  
 - dotenv  
